@@ -1,9 +1,9 @@
 stubs/<name>.stub
 
+ex : index.stub
+
 {{{{ comment }}} will be erase by ViewGenerator.php
 {{ parameter }} will be replace by ViewGenerator.php
-
-ex : index.stub
 
 {{{{ 
 Create your file from scractch or with web examples : 
