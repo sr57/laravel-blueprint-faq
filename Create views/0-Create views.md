@@ -10,5 +10,5 @@ Create your [service provider](https://github.com/sr57/laravel-blueprint-faq/blo
 
 Create your [stubs](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/2-Stub)
 
-Create your [ViewGenerator]()
+Create your [ViewGenerator](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/3-ViewGenerator)
 
