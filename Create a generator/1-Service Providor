@@ -1,0 +1,20 @@
+<?php
+
+namespace <my_namespace>\BlueprintMyAddon;
+
+use Blueprint\Blueprint;
+use Illuminate\Support\ServiceProvider;
+
+class BlueprintMyAddonServiceProvider extends ServiceProvider
+{
+    /**
+     * Register the application services.
+     */
+    public function register()
+    {
+        $this->app->extend(Blueprint::class, function (Blueprint $blueprint, $app) {
+			      $blueprint->registerGenerator(new MyGenerator($app['files']));            
+            return $blueprint;
+        });
+    }
+}
