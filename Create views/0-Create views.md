@@ -8,5 +8,7 @@ If you want to generate code for views you have to :
 
 Create your [service provider](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/1-Service%20Provider)
 
-Create your [stubs](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/2-Stub=)
+Create your [stubs](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/2-Stub)
+
+Create your [ViewGenerator]()
 
