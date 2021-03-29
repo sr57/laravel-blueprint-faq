@@ -6,5 +6,5 @@ If you want to generate code for views you have to :
 
 - create your own addon by :
 
-[Create your service provider](https://github.com/sr57/laravel-blueprint-faq/blob/main/Create%20views%20-%20Service%20Provider)
+Create your [service provider](https://github.com/sr57/laravel-blueprint-faq/blob/master/Create%20views/1-Service%20Provider)
 
