@@ -1,4 +1,4 @@
-Blueprint creates only the skeleton of each view associated with controllers defined in cofig (.yaml) file.
+Blueprint creates only the skeleton of each view associated with controllers defined in config (.yaml) file.
 
 If you want to generate code for views you have to :
 
