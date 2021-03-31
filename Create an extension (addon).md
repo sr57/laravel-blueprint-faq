@@ -1,9 +1,7 @@
 [Docs](https://blueprint.laravelshift.com/docs/extending-blueprint/)
 ### Complement
 - Each new generator will be executed at the end of blueprint in the order of declaration in the service provider
-- You can :
--- simply declare a new generator that will be executed at the end of blueprint
--- replace a blueprint generator by a new one
+- You can also replace a blueprint generator by a new one
 
 ### Examples :
 - Community Addons at the end of [Docs](https://blueprint.laravelshift.com/docs/extending-blueprint/)
