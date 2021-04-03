@@ -1,4 +1,5 @@
 # Yajra datatabe
+# IMPORTANT : REMOVE following comment (# ...) in your draft.yaml to avoid blueprint error
 models:
   Tag:                          # Your model 
     name: string:32
