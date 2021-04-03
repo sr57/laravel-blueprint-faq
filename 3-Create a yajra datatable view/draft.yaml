@@ -8,5 +8,5 @@ controllers:
     yajra:                      # or other name
       render: tag.yajra
     yajra_data:                 # used by the controller
-      true:                     # what you want, to avoid blueprint error
+      xxx:                      # what you want, to avoid blueprint error
   
