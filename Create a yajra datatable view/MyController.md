@@ -1,4 +1,4 @@
-see (Create a generator)[] for generality
+see [Create a generator](https://github.com/sr57/laravel-blueprint-faq/tree/master/Create%20a%20generator) for generality
 
 ```
     public function output(Tree $tree): array
